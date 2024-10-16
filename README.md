@@ -1,4 +1,4 @@
 ### 👽 👋
 
-- 🌱 I’m currently learning Data Analytics @ WGU
+- 🌱 I’m currently learning about Data Analytics @ WGU
 
